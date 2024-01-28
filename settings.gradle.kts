@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "M03_JavaDoZero"
 include(":app")
- 
+include(":lib")
